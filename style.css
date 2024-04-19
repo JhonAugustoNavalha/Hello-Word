@@ -1,0 +1,23 @@
+h2{
+        color:#000000;
+} 
+body{
+    background-color: #F6C209;
+    color: white;
+    font-family: inika;
+    text-align: center;
+}
+header{
+
+    border-bottom: 3px solid black;
+}
+footer{
+    border-top: 3px solid black; 
+}
+#nome-usuario{
+    font-weight: bold;
+}
+.texto-ingles{
+    font-style: italic;
+    
+}
